@@ -10,4 +10,7 @@ I presume that this may be the case for a lot of other students moving to the ci
 Graduate students and undergraduate students alike who aren’t familiar with the LA area and are not sure where they would like to live in, may benefit from this explorative project!
 
 ## Data
-The [LA addresses data](https://catalog.data.gov/dataset/addresses-in-the-city-of-los-angeles) is sourced from [data.lacity.org](data.lacity.org) provided by the department: Bureau of Engineering. It is used in conjunction with [Foursquare location data](https://foursquare.com). The Foursquare API is leveraged to explore and segment the neighborhoods in LA. Foursquare's **explore** function will be utilized to get the most common venue categories in each neighborhood. This will then be aggregated with the neighborhood data and subsequently used to group the neighborhoods into clusters.
+The [LA addresses data](https://catalog.data.gov/dataset/addresses-in-the-city-of-los-angeles) is sourced from [data.lacity.org](data.lacity.org) provided by the department: Bureau of Engineering. It is used in conjunction with [Foursquare location data](https://foursquare.com). 
+
+## Methodology
+After the data has been loaded and preprocessed, a call to the Foursquare API will be made to explore and segment the neighborhoods in LA. Foursquare's **explore** function will be utilized to get the most common venue categories (within a radius of 500 metres) in each neighborhood. This will then be aggregated with the neighborhood data and subsequently used to group the neighborhoods into clusters. The clustering algorithm of choice to complete this task will be the *k*-means. Finally, the Folium library will be used to visualize the neighborhoods and their emerging clusters.

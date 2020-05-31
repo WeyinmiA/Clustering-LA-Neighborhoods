@@ -5,7 +5,7 @@
 ## Introduction/Problem Statement
 I am an incoming grad student at USC for Fall 2020 and because of the current state of affairs in the world (namely the Covid-19 global pandemic that has stunned the world!) I have not been able to visit Los Angeles, CA prior to enrolment, in order to get to know the city well before moving there for my studies. As such it has been difficult to decide where I would like to live or even the areas I might like to visit first upon arrival. 
 
-I presume that this may be the case for a lot of other students moving to the city of LA for college, whether at USC or even UCLA. In an effort to remedy this, I have decided to dive into LA addresses data to investigate the region. The aim is to try and find any patterns that may be interesting to me or other students and that may be helpful in simply discovering more about the area.
+I presume that this may be the case for a lot of other students moving to the city of LA for college, whether at USC or even UCLA. To remedy this, I have decided to dive into LA addresses data to investigate the region. The aim is to try and find any patterns that may be interesting to me or other students and that may be helpful in simply discovering more about the area.
 
 Graduate students and undergraduate students alike who aren’t familiar with the LA area and are not sure where they would like to live in, may benefit from this explorative project!
 

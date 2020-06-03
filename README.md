@@ -2,7 +2,7 @@
 
 **Segmenting and Clustering Neighborhoods in Los Angeles**
 
-**Capstone Project Notebook:** The *ClusteringLA.ipynb notebook* can be viewed in its fully rendered form [here!](https://nbviewer.jupyter.org/github/WeyinmiA/Coursera_Capstone/blob/master/Capstone%20Project-%20Clustering%20LA/ClusteringLA.ipynb)
+**Capstone Project Notebook:** The *ClusteringLA.ipynb notebook* can be viewed in its fully rendered form [here!](https://nbviewer.jupyter.org/github/WeyinmiA/Clustering-LA-Neighborhoods/blob/master/Capstone%20Project-%20Clustering%20LA/ClusteringLA.ipynb)
 
 ## Introduction/Problem Statement
 I am an incoming grad student at USC for Fall 2020 and because of the current state of affairs in the world (namely the Covid-19 global pandemic that has stunned the world!) I have not been able to visit Los Angeles, CA prior to enrolment, in order to get to know the city well before moving there for my studies. As such it has been difficult to decide where I would like to live or even the areas I might like to visit first upon arrival. 
